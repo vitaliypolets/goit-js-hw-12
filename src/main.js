@@ -109,6 +109,9 @@ async function handleLoadMore() {
   }
 }
 
+
+// smoothScroll
+
 function smoothScroll() {
   const galleryItem = document.querySelector('.gallery-item');
 
